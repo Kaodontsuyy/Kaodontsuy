@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://imgur.com/n9u5abN)">
+  <img src="(https://github.com/user-attachments/assets/fad3fdd8-1582-4d48-a056-6856a741d986)">
   <div>nah 😭</div>
 </div>
 
