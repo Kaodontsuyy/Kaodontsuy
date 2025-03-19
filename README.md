@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="("(![image](https://github.com/user-attachments/assets/2b8da6a5-8981-4956-9001-528d0ace62cb)
+  <img src="("https://github.com/user-attachments/assets/2b8da6a5-8981-4956-9001-528d0ace62cb
 )">
   <div>nah 😭</div>
 </div>
