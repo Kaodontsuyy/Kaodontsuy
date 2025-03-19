@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/fad3fdd8-1582-4d48-a056-6856a741d986)">
+  <img src="(https://cdn.discordapp.com/attachments/1339616880662679583/1351870091557474304/69B24BFE-7C1C-4076-85DD-A8ECB3BB6455.gif?ex=67dbf2a2&is=67daa122&hm=999cd7a0ae403db68916e447eca148f80388313f40696fa599e28312ed6693f1&)">
   <div>nah 😭</div>
 </div>
 
