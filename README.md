@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="("https://github.com/user-attachments/assets/2b8da6a5-8981-4956-9001-528d0ace62cb
-)">
+  <img src="(https://imgur.com/n9u5abN)">
   <div>nah 😭</div>
 </div>
 
