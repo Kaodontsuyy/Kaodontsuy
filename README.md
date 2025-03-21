@@ -8,7 +8,7 @@ Set up for me - **do not download.**
 
 ### Minecraft Java
 * [Launcher](https://llaun.ch/vi)
-* [Silent Client](https://silentclient.net)
+* [Silent Client](https://api.silentclient.net/_next/download?platform=windows&branch=stable)
 * [Badlion Client](https://www.badlion.net/download/client/latest/windows)
 
 ### Pack Minecraft 1.8.9
