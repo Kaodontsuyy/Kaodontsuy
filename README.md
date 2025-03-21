@@ -16,6 +16,7 @@ Set up for me - **do not download.**
 * [Luminous](https://drive.google.com/file/d/16wX6ix3s_65-Kjy7HuY6BlmPl3F-Ykok/view?usp=drivesdk)
 * [Sploo](https://drive.google.com/file/d/16qhU6li8mzdbsKV35cwquyZ3bFU_HT3J/view?usp=drivesdk)
 * [Atlas](https://drive.google.com/file/d/16lBoc6Gj8dsYLJnWa6HIcFtdj0Tj1AXK/view?usp=drivesdk)
+* [Vaes](https://drive.google.com/file/d/176KDrxK1UR9klspDW27iy-obPz6bl-Bf/view?usp=drivesdk)
 
 ### Roblox
 * [Roblox PC](https://www.roblox.com/download/client?os=win)
