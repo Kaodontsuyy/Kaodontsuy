@@ -11,6 +11,12 @@ Set up for me - **do not download.**
 * [Silent Client](https://silentclient.net)
 * [Badlion Client](https://www.badlion.net/download/client/latest/windows)
 
+### Pack Minecraft 1.8.9
+* [Absolute](https://drive.google.com/file/d/16w-Lw22pALHCPN0vqRVnn1hOODec1GEf/view?usp=drivesdk)
+* [Luminous](https://drive.google.com/file/d/16wX6ix3s_65-Kjy7HuY6BlmPl3F-Ykok/view?usp=drivesdk)
+* [Sploo](https://drive.google.com/file/d/16qhU6li8mzdbsKV35cwquyZ3bFU_HT3J/view?usp=drivesdk)
+* [Atlas](https://drive.google.com/file/d/16lBoc6Gj8dsYLJnWa6HIcFtdj0Tj1AXK/view?usp=drivesdk)
+
 ### Roblox
 * [Roblox PC](https://www.roblox.com/download/client?os=win)
 * [WebView2 Runtime](https://go.microsoft.com/fwlink/p/?LinkId=2124703)
