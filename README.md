@@ -9,6 +9,7 @@ Set up for me - **do not download.**
 ### Minecraft Java
 * [Launcher](https://llaun.ch/vi)
 * [Silent Client](https://api.silentclient.net/_next/download?platform=windows&branch=stable)
+* [Lunar Client](https://download.overwolf.com/install/Download?ExtensionId=jilehohlakeokncafogkgnicgndeecdiengddbcc)
 * [Badlion Client](https://www.badlion.net/download/client/latest/windows)
 
 ### Pack Minecraft 1.8.9
